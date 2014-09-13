@@ -3,11 +3,5 @@ body {
 	}
 
 #siteLinks {
-	float: left;
 	display: inline;
-}
-
-#horizontalBarLink {
-	display: block;
-	width: 60px;
-}
+	}
