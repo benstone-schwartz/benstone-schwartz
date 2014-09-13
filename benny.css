@@ -3,5 +3,11 @@ body {
 	}
 
 #siteLinks {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	}
+
+#horizontalBarLinks {
 	display: inline;
 	}
