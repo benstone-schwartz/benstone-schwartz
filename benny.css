@@ -4,6 +4,8 @@ body {
 	
 #mainBackground {
 	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
 	height: 600px;
 	width: 800px;
 	
