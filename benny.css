@@ -1,13 +1,17 @@
 body {
 	background-color: rgb(0,26,87);
-	}
+}
+	
+#mainBackground {
+	width: 50%;
+}
 
 #siteLinks {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	}
+}
 
 #horizontalBarLink {
 	display: inline;
-	}
+}
