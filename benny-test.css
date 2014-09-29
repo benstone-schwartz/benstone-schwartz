@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(0,26,87);
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+#mainBackground {
+	/* CSS3 Properties */
+	border-radius: 10px;
+	
+	/* CSS2 Properties */
+	
+	/* CSS1 Properties */
+	background-color: rgb(220,220,220);	
+	color: rgb(255,245,50);
+
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 1cm;
+
+	border-style: solid;
+	/*border-width: 10px;*/
+	border-color: #FFD700;
+}
+
+#backgroundBuffer {
+	/* CSS3 Properties */
+
+	
+
+
+
+}
+
+#siteLinks {
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#horizontalBarLink {
+	display: inline;
+}
+
+#contactTableBack {
+	background-color: grey;
+}
+
+#contactTable {
+	width: 90%;
+}
